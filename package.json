@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/LeoJobz/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/LeoJobz/js-tdd-course#readme"
+  "homepage": "https://github.com/LeoJobz/js-tdd-course#readme",
+  "dependencies": {}
 }
