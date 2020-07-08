@@ -26,8 +26,8 @@
   "dependencies": {},
   "devDependencies": {
     "eslint": "^7.4.0",
-    "eslint-config-node": "^4.1.0",
     "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-config-node": "^4.1.0",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-node": "^11.1.0",
     "husky": "^4.2.5"
