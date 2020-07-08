@@ -1,3 +1,9 @@
 const a = 2;
 
-console.log(a);
+const b = 3
+
+function sum() {
+    return a + b;
+}
+
+sum();
